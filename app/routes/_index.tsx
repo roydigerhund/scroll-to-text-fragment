@@ -22,6 +22,11 @@ export default function Index() {
       <p>
         <Link to="/test#:~:text=Highlight">Go to test route</Link>
       </p>
+      <p>
+        Clicking on the link above should take you to the test route and
+        highlight the word "Highlight" on the page. If not visible in the
+        viewport, it should also scroll to the highlighted word.
+      </p>
     </div>
   );
 }
