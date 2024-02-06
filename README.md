@@ -1,6 +1,6 @@
-# Welcome to Remix!
+# Repository for testing scroll-to-text-fragment with react-router and remix
 
-- [Remix Docs](https://remix.run/docs)
+You can view the live demo [here](https://scroll-to-text-fragment.vercel.app).
 
 ## Development
 
